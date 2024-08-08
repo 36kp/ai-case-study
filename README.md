@@ -118,9 +118,9 @@ Since company have adapted new technology treds their market value has been cons
 - Financial Data : [SEC filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK)
 - Technology Data: [Stryker Careers](https://careers.stryker.com/)
 
-1. [^1]: Markman, Jon. ["Early Focus On Surgical Robotics Gives Stryker A Leg Up"](https://www.forbes.com/sites/jonmarkman/2019/08/30/early-focus-on-surgical-robotics-gives-stryker-a-leg-up/). Forbes. Retrieved 2020-06-09.
-2. [^2]: Sourced from company website. [stryker.com/us/en/about.html](https://www.stryker.com/us/en/about.html)
-3. [^3]: Extracted from Fortune Business Insights report ID: [FBI107009](https://www.fortunebusinessinsights.com/u-s-medical-devices-market-107009)
-4. [^4]: Sourced from Insider Monkey article: [Top 5 Medical AI Companies](https://www.insidermonkey.com/blog/top-5-medical-ai-companies-1203900/)
-5. [^5]: Image captured from NYSE quote : [SYK](https://www.nyse.com/quote/XNYS:SYK)
-6. [^6]: Stryker Annual Report 2023: https://www.stryker.com/us/en/about/annual-review/2023.html
+[^1]: Markman, Jon. ["Early Focus On Surgical Robotics Gives Stryker A Leg Up"](https://www.forbes.com/sites/jonmarkman/2019/08/30/early-focus-on-surgical-robotics-gives-stryker-a-leg-up/). Forbes. Retrieved 2020-06-09.
+[^2]: Sourced from company website. [stryker.com/us/en/about.html](https://www.stryker.com/us/en/about.html)
+[^3]: Extracted from Fortune Business Insights report ID: [FBI107009](https://www.fortunebusinessinsights.com/u-s-medical-devices-market-107009)
+[^4]: Sourced from Insider Monkey article: [Top 5 Medical AI Companies](https://www.insidermonkey.com/blog/top-5-medical-ai-companies-1203900/)
+[^5]: Image captured from NYSE quote : [SYK](https://www.nyse.com/quote/XNYS:SYK)
+[^6]: Stryker Annual Report 2023: https://www.stryker.com/us/en/about/annual-review/2023.html

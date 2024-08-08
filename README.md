@@ -1,4 +1,4 @@
-# Stryker: A MedTech giant with a brain using Aartificial Intelligence (AI)
+# Stryker: A MedTech giant growing with Aartificial Intelligence (AI)
 
 ## Overview and Origin
 
